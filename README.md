@@ -1,3 +1,3 @@
-# Text-Sleuth
+# TextSleuth
 
 ## dataset and code will be available soon..... 
